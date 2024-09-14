@@ -1,0 +1,10 @@
+# Exclude Visual Studio files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Exclude build output directories
+bin/
+obj/
