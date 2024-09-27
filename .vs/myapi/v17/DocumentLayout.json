@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\sg379894\\source\\repos\\myapi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4CC7683F-6AC3-40AA-8B13-03887FCBF999}|myapi\\myapi.csproj|c:\\users\\sg379894\\source\\repos\\myapi\\myapi\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{4CC7683F-6AC3-40AA-8B13-03887FCBF999}|myapi\\myapi.csproj|solutionrelative:myapi\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4CC7683F-6AC3-40AA-8B13-03887FCBF999}|myapi\\myapi.csproj|c:\\users\\sg379894\\source\\repos\\myapi\\myapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4CC7683F-6AC3-40AA-8B13-03887FCBF999}|myapi\\myapi.csproj|solutionrelative:myapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -22,24 +18,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": ".gitignore",
-              "DocumentMoniker": "C:\\Users\\sg379894\\source\\repos\\myapi\\myapi\\.gitignore",
-              "RelativeDocumentMoniker": "myapi\\.gitignore",
-              "ToolTip": "C:\\Users\\sg379894\\source\\repos\\myapi\\myapi\\.gitignore",
-              "RelativeToolTip": "myapi\\.gitignore",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
-              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF8SURBVDhPjVNLTgJBEG1lwpoFB3GNK9fieA48hD8iwT/ihwgSDAIHgAGXXsEV18CNzL/LquqZdsYM6kteXqcy3fWqpmpNRBgOhyABBEgpAFVKPIMUcYzUyOU\u002BXM/b2qtU3vkSfRjjZTCAMAw1A2LwzdFoBPP5HNqdzuL27n4juibWI\u002BUshBA1DIkhEx9iEorFotgslQqGYbxxAGFEqt1MxmPWJLbLZdZ\u002Bv89q5PMFPiTR6z2zdaxR0fXA0XTBcVywkb4fwHXjRteecIDNQ7UmExVYAdPcxYaqclN46na5WenMKjtlVnTYwcXlVYaDqImW9beD5N/TeGy32QHXm6hZ03ZgiSQHp2fnWQ4oBmJqWSqwAqZpZjt4aLXAD4J0VqyZsmoubfB8H2r1eoaD6NXZ9HcHO\u002BSA3f4AjifXl8rItOETM8ckB9WTWpYD9RdeZ1PWVWAHWXPQaDb59f/w8LiqHeh1pvGkCaP6qB8yXusoxmuNZ7XmII4O9vGuEF86osuDYRkpYQAAAABJRU5ErkJggg==",
-              "WhenOpened": "2024-09-14T00:39:14.606Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\sg379894\\source\\repos\\myapi\\myapi\\Program.cs",
               "RelativeDocumentMoniker": "myapi\\Program.cs",
@@ -47,12 +30,11 @@
               "RelativeToolTip": "myapi\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T22:15:41.757Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-13T22:15:41.757Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "C:\\Users\\sg379894\\source\\repos\\myapi\\myapi\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "myapi\\Controllers\\WeatherForecastController.cs",
