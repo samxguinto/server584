@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35222.181
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "myapi", "myapi\myapi.csproj", "{4CC7683F-6AC3-40AA-8B13-03887FCBF999}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "myapi", "myapi\myapi.csproj", "{4CC7683F-6AC3-40AA-8B13-03887FCBF999}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dataModel", "dataModel\dataModel.csproj", "{452A3CE1-35CE-4154-8144-22347A049B94}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{4CC7683F-6AC3-40AA-8B13-03887FCBF999}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4CC7683F-6AC3-40AA-8B13-03887FCBF999}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4CC7683F-6AC3-40AA-8B13-03887FCBF999}.Release|Any CPU.Build.0 = Release|Any CPU
+		{452A3CE1-35CE-4154-8144-22347A049B94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{452A3CE1-35CE-4154-8144-22347A049B94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{452A3CE1-35CE-4154-8144-22347A049B94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{452A3CE1-35CE-4154-8144-22347A049B94}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

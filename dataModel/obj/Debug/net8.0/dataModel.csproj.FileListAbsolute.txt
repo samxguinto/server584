@@ -1,0 +1,15 @@
+C:\Users\sg379894\source\repos\myapi\dataModel\bin\Debug\net8.0\dataModel.deps.json
+C:\Users\sg379894\source\repos\myapi\dataModel\bin\Debug\net8.0\dataModel.dll
+C:\Users\sg379894\source\repos\myapi\dataModel\bin\Debug\net8.0\dataModel.pdb
+C:\Users\sg379894\source\repos\myapi\dataModel\obj\Debug\net8.0\dataModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sg379894\source\repos\myapi\dataModel\obj\Debug\net8.0\dataModel.AssemblyInfoInputs.cache
+C:\Users\sg379894\source\repos\myapi\dataModel\obj\Debug\net8.0\dataModel.AssemblyInfo.cs
+C:\Users\sg379894\source\repos\myapi\dataModel\obj\Debug\net8.0\dataModel.csproj.CoreCompileInputs.cache
+C:\Users\sg379894\source\repos\myapi\dataModel\obj\Debug\net8.0\dataModel.sourcelink.json
+C:\Users\sg379894\source\repos\myapi\dataModel\obj\Debug\net8.0\dataModel.dll
+C:\Users\sg379894\source\repos\myapi\dataModel\obj\Debug\net8.0\refint\dataModel.dll
+C:\Users\sg379894\source\repos\myapi\dataModel\obj\Debug\net8.0\dataModel.pdb
+C:\Users\sg379894\source\repos\myapi\dataModel\obj\Debug\net8.0\ref\dataModel.dll
+C:\Users\sg379894\source\repos\myapi\dataModel\obj\Debug\net8.0\dataModel.csproj.AssemblyReference.cache
+C:\Users\sg379894\source\repos\myapi\dataModel\bin\Debug\net8.0\dataModel.runtimeconfig.json
+C:\Users\sg379894\source\repos\myapi\dataModel\obj\Debug\net8.0\dataModel.genruntimeconfig.cache
