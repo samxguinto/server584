@@ -13,3 +13,5 @@ C:\Users\sg379894\source\repos\myapi\dataModel\obj\Debug\net8.0\ref\dataModel.dl
 C:\Users\sg379894\source\repos\myapi\dataModel\obj\Debug\net8.0\dataModel.csproj.AssemblyReference.cache
 C:\Users\sg379894\source\repos\myapi\dataModel\bin\Debug\net8.0\dataModel.runtimeconfig.json
 C:\Users\sg379894\source\repos\myapi\dataModel\obj\Debug\net8.0\dataModel.genruntimeconfig.cache
+C:\Users\sg379894\source\repos\myapi\dataModel\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\sg379894\source\repos\myapi\dataModel\bin\Debug\net8.0\appsettings.json

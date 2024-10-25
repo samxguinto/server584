@@ -3,28 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\sg379894\\source\\repos\\myapi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4CC7683F-6AC3-40AA-8B13-03887FCBF999}|myapi\\myapi.csproj|c:\\users\\sg379894\\source\\repos\\myapi\\myapi\\controllers\\seedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CC7683F-6AC3-40AA-8B13-03887FCBF999}|myapi\\myapi.csproj|solutionrelative:myapi\\controllers\\seedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CC7683F-6AC3-40AA-8B13-03887FCBF999}|myapi\\myapi.csproj|c:\\users\\sg379894\\source\\repos\\myapi\\myapi\\controllers\\citiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CC7683F-6AC3-40AA-8B13-03887FCBF999}|myapi\\myapi.csproj|solutionrelative:myapi\\controllers\\citiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CC7683F-6AC3-40AA-8B13-03887FCBF999}|myapi\\myapi.csproj|c:\\users\\sg379894\\source\\repos\\myapi\\myapi\\data\\worldcitiescsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CC7683F-6AC3-40AA-8B13-03887FCBF999}|myapi\\myapi.csproj|solutionrelative:myapi\\data\\worldcitiescsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CC7683F-6AC3-40AA-8B13-03887FCBF999}|myapi\\myapi.csproj|c:\\users\\sg379894\\source\\repos\\myapi\\myapi\\dto\\citydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CC7683F-6AC3-40AA-8B13-03887FCBF999}|myapi\\myapi.csproj|solutionrelative:myapi\\dto\\citydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CC7683F-6AC3-40AA-8B13-03887FCBF999}|myapi\\myapi.csproj|c:\\users\\sg379894\\source\\repos\\myapi\\myapi\\data\\worldcities.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{4CC7683F-6AC3-40AA-8B13-03887FCBF999}|myapi\\myapi.csproj|solutionrelative:myapi\\data\\worldcities.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CC7683F-6AC3-40AA-8B13-03887FCBF999}|myapi\\myapi.csproj|c:\\users\\sg379894\\source\\repos\\myapi\\myapi\\myapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{4CC7683F-6AC3-40AA-8B13-03887FCBF999}|myapi\\myapi.csproj|solutionrelative:myapi\\myapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{4CC7683F-6AC3-40AA-8B13-03887FCBF999}|myapi\\myapi.csproj|c:\\users\\sg379894\\source\\repos\\myapi\\myapi\\controllers\\countriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CC7683F-6AC3-40AA-8B13-03887FCBF999}|myapi\\myapi.csproj|solutionrelative:myapi\\controllers\\countriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,79 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "SeedController.cs",
-              "DocumentMoniker": "C:\\Users\\sg379894\\source\\repos\\myapi\\myapi\\Controllers\\SeedController.cs",
-              "RelativeDocumentMoniker": "myapi\\Controllers\\SeedController.cs",
-              "ToolTip": "C:\\Users\\sg379894\\source\\repos\\myapi\\myapi\\Controllers\\SeedController.cs",
-              "RelativeToolTip": "myapi\\Controllers\\SeedController.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAgwDMAAAANAAAAAAAAAA==",
+              "Title": "CountriesController.cs",
+              "DocumentMoniker": "C:\\Users\\sg379894\\source\\repos\\myapi\\myapi\\Controllers\\CountriesController.cs",
+              "RelativeDocumentMoniker": "myapi\\Controllers\\CountriesController.cs",
+              "ToolTip": "C:\\Users\\sg379894\\source\\repos\\myapi\\myapi\\Controllers\\CountriesController.cs",
+              "RelativeToolTip": "myapi\\Controllers\\CountriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-12T00:11:22.05Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "WorldCitiesCSV.cs",
-              "DocumentMoniker": "C:\\Users\\sg379894\\source\\repos\\myapi\\myapi\\Data\\WorldCitiesCSV.cs",
-              "RelativeDocumentMoniker": "myapi\\Data\\WorldCitiesCSV.cs",
-              "ToolTip": "C:\\Users\\sg379894\\source\\repos\\myapi\\myapi\\Data\\WorldCitiesCSV.cs",
-              "RelativeToolTip": "myapi\\Data\\WorldCitiesCSV.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-12T00:07:36.74Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "worldcities.csv",
-              "DocumentMoniker": "C:\\Users\\sg379894\\source\\repos\\myapi\\myapi\\Data\\worldcities.csv",
-              "RelativeDocumentMoniker": "myapi\\Data\\worldcities.csv",
-              "ToolTip": "C:\\Users\\sg379894\\source\\repos\\myapi\\myapi\\Data\\worldcities.csv",
-              "RelativeToolTip": "myapi\\Data\\worldcities.csv",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
-              "WhenOpened": "2024-10-12T00:05:11.587Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "myapi",
-              "DocumentMoniker": "C:\\Users\\sg379894\\source\\repos\\myapi\\myapi\\myapi.csproj",
-              "RelativeDocumentMoniker": "myapi\\myapi.csproj",
-              "ToolTip": "C:\\Users\\sg379894\\source\\repos\\myapi\\myapi\\myapi.csproj",
-              "RelativeToolTip": "myapi\\myapi.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-12T00:04:37.382Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CitiesController.cs",
-              "DocumentMoniker": "C:\\Users\\sg379894\\source\\repos\\myapi\\myapi\\Controllers\\CitiesController.cs",
-              "RelativeDocumentMoniker": "myapi\\Controllers\\CitiesController.cs",
-              "ToolTip": "C:\\Users\\sg379894\\source\\repos\\myapi\\myapi\\Controllers\\CitiesController.cs",
-              "RelativeToolTip": "myapi\\Controllers\\CitiesController.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA4AAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T23:00:16.428Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CityDTO.cs",
-              "DocumentMoniker": "C:\\Users\\sg379894\\source\\repos\\myapi\\myapi\\DTO\\CityDTO.cs",
-              "RelativeDocumentMoniker": "myapi\\DTO\\CityDTO.cs",
-              "ToolTip": "C:\\Users\\sg379894\\source\\repos\\myapi\\myapi\\DTO\\CityDTO.cs",
-              "RelativeToolTip": "myapi\\DTO\\CityDTO.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T22:41:13.358Z",
+              "WhenOpened": "2024-10-19T00:28:15.872Z",
               "EditorCaption": ""
             }
           ]
