@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{4CC7683F-6AC3-40AA-8B13-03887FCBF999}|myapi\\myapi.csproj|c:\\users\\sg379894\\source\\repos\\myapi\\myapi\\controllers\\countriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4CC7683F-6AC3-40AA-8B13-03887FCBF999}|myapi\\myapi.csproj|solutionrelative:myapi\\controllers\\countriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC7683F-6AC3-40AA-8B13-03887FCBF999}|myapi\\myapi.csproj|c:\\users\\sg379894\\source\\repos\\myapi\\myapi\\dto\\countrypopulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CC7683F-6AC3-40AA-8B13-03887FCBF999}|myapi\\myapi.csproj|solutionrelative:myapi\\dto\\countrypopulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CountryPopulation.cs",
+              "DocumentMoniker": "C:\\Users\\sg379894\\source\\repos\\myapi\\myapi\\DTO\\CountryPopulation.cs",
+              "RelativeDocumentMoniker": "myapi\\DTO\\CountryPopulation.cs",
+              "ToolTip": "C:\\Users\\sg379894\\source\\repos\\myapi\\myapi\\DTO\\CountryPopulation.cs",
+              "RelativeToolTip": "myapi\\DTO\\CountryPopulation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T23:12:10.673Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +40,7 @@
               "RelativeDocumentMoniker": "myapi\\Controllers\\CountriesController.cs",
               "ToolTip": "C:\\Users\\sg379894\\source\\repos\\myapi\\myapi\\Controllers\\CountriesController.cs",
               "RelativeToolTip": "myapi\\Controllers\\CountriesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwCoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-19T00:28:15.872Z",
               "EditorCaption": ""
